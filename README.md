@@ -2,7 +2,7 @@
 
 In this repository you will find the source files for the [bq Ciclop 3D scanner](http://diwo.bq.com/en/tag/ciclop) [[es](http://diwo.bq.com/tag/ciclop)]. Also in [thingiverse](http://www.thingiverse.com/thing:740357). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bqlabs/ciclop/issues).
 
-[comprar]: https://www.mercadopago.com/mla/checkout/pay?pref_id=33983815-0cdd0f89-2a76-4894-8b52-cd2b173f319d
+[comprar](https://www.mercadopago.com/mla/checkout/pay?pref_id=33983815-0cdd0f89-2a76-4894-8b52-cd2b173f319d)
 
 ![][ciclop]
 
